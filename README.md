@@ -1,4 +1,4 @@
-<h1>site  da Netflix</h1>
+<h1>Netflix</h1>
 
 <h3> projeto de uma Página da Netflix  para  fins oferece uma grande variedade de entretenimento, incluindo séries, filmes, documentários, jogos interativos e muito mais!
 utilizei a seguintes Tecnologias:</h3>
