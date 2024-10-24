@@ -1,6 +1,6 @@
 <h1>Netflix</h1>
 
-<h3> projeto de uma Página da Netflix  para  fins oferece uma grande variedade de entretenimento, incluindo séries, filmes, documentários, jogos interativos e muito mais!
+<h3> Projeto  de uma Página da Netflix desenvolvir   para  fins de oferece uma grande variedade de entretenimento, incluindo séries, filmes, documentários, jogos interativos e muito mais !
 utilizei a seguintes Tecnologias:</h3>
 
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Html-logo"/>
