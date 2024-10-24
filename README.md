@@ -1,3 +1,3 @@
 
 
-<img src= "https://github.com/leonardosantos10/Calculadora---IMC/blob/main/img/imgIMC.png?raw=true"/>
+<img src= "https://github.com/leonardosantos10/Netflix/blob/main/img/Captura.desktop1.png?raw=true"/>
